@@ -1,5 +1,5 @@
 # Asus-TUF-Z390-Hackintosh-Monterey-EFI
-![GitHub all releases](https://img.shields.io/github/downloads/Sahil12524/Asus-TUF-Z390-Hackintosh-Monterey-EFI/total)
+![GitHub all releases](https://img.shields.io/github/downloads/Sahil12524/Asus-TUF-Z390-Hackintosh-Monterey-EFI/total?style=for-the-badge)
 
 This EFI is configured for Asus TUF Z390 Motherboards only.
 Using this EFI on other Motherboards may not work as expected.
